@@ -1,0 +1,3 @@
+frontmatter==3.0.8
+Markdown==3.8
+PyYAML==5.1
