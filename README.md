@@ -4,7 +4,7 @@
 
 ## knowledge-graph implementation
 
-## desc: tex -> .md -> knowledge graph
+## desc: text -> .md -> knowledge graph
 
 ## parsing the .md file
 + python (parsing and CLI)
